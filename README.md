@@ -138,6 +138,7 @@ COMPOSITORS
 - ![Zig](https://img.shields.io/badge/zig-%23f7a41d.svg?style=plastic&logo=zig&logoColor=fff) [river-classic](https://codeberg.org/river/river-classic) - A fork of river 0.3 intended for users who do not want river 0.4+ features and breaking changes
 - ![Zig](https://img.shields.io/badge/zig-%23f7a41d.svg?style=plastic&logo=zig&logoColor=fff) [river](https://codeberg.org/river/river) - A non-monolithic Wayland compositor
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [scroll](https://github.com/dawsers/scroll) - A wlroots-based scrollable Wayland compositor forked from sway with a layout similar to PaperWM and niri
+- ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [Slipstream](https://github.com/peterwalker78/slipstream-desktop) - A Smithay-based keyboard-first Wayland desktop with its own bar, notifications, lock screen and Settings
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [stagen](https://github.com/lidgnulinux/stagen) - An experimental wlroots-based Wayland compositor
 - ![C++](https://img.shields.io/badge/c++-%235e97d0.svg?style=plastic&logo=c%2B%2B&logoColor=fff) [steppewm](https://github.com/uncognic/steppewm) - A minimal stacking wlroots-based Wayland compositor inspired by IceWM
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [SwayFX](https://github.com/wlrfx/swayfx) - Sway, but with eye candy
